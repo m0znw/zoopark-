@@ -1,0 +1,109 @@
+h1 {
+    text-align: center;
+    color: purple;
+    background-color: darkcyan;
+    padding: 8px;
+    border: solid 3px red;
+    border-radius: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.s1 {
+    color: red;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.hh2 {
+    text-align: center;
+    background-color: yellow;
+    color: green;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 700px;
+    height: auto;
+}
+
+.ifr1 {
+    margin: 0 auto;
+    display: block;
+    width: 1000px;
+    height: 800px;
+
+}
+
+.l1 {
+    font-size: 30px;
+    color: green;
+
+}
+
+input {
+    font-size: 30px;
+    width: 100%;
+}
+
+.hh3 {
+    color: green;
+}
+
+
+form {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    width: 500px;
+    height: 80px;
+    font-size: 50px;
+    color: aqua;
+    background-color: black;
+    border-radius: 50px;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: solid black 2px;
+
+    text-align: center;
+}
+
+th {
+    width: 700px;
+}
+
+.hayvon {
+    color: white;
+    background-color: green;
+}
+
+.qz {
+    color: white;
+    background-color: blue;
+}
+
+.a {
+    background-color: red;
+    color: white;
+}
+
+.f {
+    color: white;
+    background-color: black;
+}
